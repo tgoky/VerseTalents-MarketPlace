@@ -32,4 +32,15 @@ export default [
     skills: ["flutter"],
     link: "https://facebook.com/careers",
   },
+  {
+    id: 4,
+    postedOn: new Date(),
+    title: "Blockchain dev",
+    type: "Part time",
+    location: "Office",
+    companyName: "BlockHashLabs",
+    companyUrl: "kintsugi.finance",
+    skills: ["Rust", "Soldiity", "Typescript"],
+    link: "https://app.kintsugi.finance",
+  }
 ];
